@@ -7,8 +7,7 @@ This project explores and implements techniques using SHAP, LIME, and Captum to 
 - `Images/`: Directory containing images
 
 ## File Description
-- `Models/`
-  - `bert_base_uncased/`: (https://drive.google.com/file/d/1YS7raCcKHBFUAaEbvrDss0YGmeXKCUNf/view?usp=share_link) Pretrained BERT model
+- `Models/`- (https://drive.google.com/file/d/1YS7raCcKHBFUAaEbvrDss0YGmeXKCUNf/view?usp=share_link) Pretrained BERT model
 - `BERT_CAPTUM_SHAP_LIME.ipynb.ipynb`: Jupyter notebook containing code for model interpretability using LIME, SHAP and CAPTUM.
 - Requirements.txt file
 
