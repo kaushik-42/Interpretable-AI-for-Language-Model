@@ -6,13 +6,12 @@ This project explores and implements techniques using SHAP, LIME, and Captum to 
 ## Directory Structure
 - `Images/`: Directory containing images
 - `Models/`: Directory containing the trained models
-- `Notebooks/`: Directory containing Jupyter notebooks with all the code
 
 ## File Description
 - `Models/`
   - `bert_base_uncased/`: Pretrained BERT model
-- `Notebooks/`
-  - `BERT_CAPTUM_SHAP_LIME.ipynb.ipynb`: Jupyter notebook containing code for model interpretability using LIME, SHAP and CAPTUM.
+- `BERT_CAPTUM_SHAP_LIME.ipynb.ipynb`: Jupyter notebook containing code for model interpretability using LIME, SHAP and CAPTUM.
+- Requirements.txt file
 
 ## Project Overview
 The increasing adoption of language models, such as BERT, has led to a growing need for interpretability in AI systems. Understanding how these models make predictions and providing explanations for their decisions is crucial for building trust and ensuring accountability. This project is an attempt to address this need by exploring and implementing model interpretability techniques using SHAP, LIME, and Captum.
@@ -25,7 +24,7 @@ The increasing adoption of language models, such as BERT, has led to a growing n
 ## How to Run
 1. Clone the repository and navigate to the downloaded folder.
 2. Install the required packages: `pip install -r requirements.txt`
-3. Run the notebooks: `LIME_SHAP.ipynb` and `Captum.ipynb`
+3. Run the notebooks: `BERT_CAPTUM_SHAP_LIME.ipynb.ipynb`
 
 ## References
 1. Lundberg, S.M., Lee, S.I. (2017). A Unified Approach to Interpreting Model Predictions. Advances in Neural Information Processing Systems, 30, 4765-4774.
