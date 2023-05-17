@@ -8,7 +8,7 @@ This project explores and implements techniques using SHAP, LIME, and Captum to 
 
 ## File Description
 - `Models/`- (https://drive.google.com/file/d/1YS7raCcKHBFUAaEbvrDss0YGmeXKCUNf/view?usp=share_link) Fine-tuned BERT model on Reuters dataset
-- `BERT_CAPTUM_SHAP_LIME.ipynb.ipynb`: Jupyter notebook containing code for model interpretability using LIME, SHAP and CAPTUM.
+- `BERT_CAPTUM_SHAP_LIME.ipynb`: Jupyter notebook containing code for model interpretability using LIME, SHAP and CAPTUM.
 - Requirements.txt file
 
 ## Project Overview
