@@ -5,7 +5,6 @@ This project explores and implements techniques using SHAP, LIME, and Captum to 
 
 ## Directory Structure
 - `Images/`: Directory containing images
-- `Models/`: Directory containing the trained models
 
 ## File Description
 - `Models/`
@@ -24,7 +23,7 @@ The increasing adoption of language models, such as BERT, has led to a growing n
 ## How to Run
 1. Clone the repository and navigate to the downloaded folder.
 2. Install the required packages: `pip install -r requirements.txt`
-3. Run the notebooks: `BERT_CAPTUM_SHAP_LIME.ipynb.ipynb`
+3. Run the notebooks: `BERT_CAPTUM_SHAP_LIME.ipynb`
 
 ## References
 1. Lundberg, S.M., Lee, S.I. (2017). A Unified Approach to Interpreting Model Predictions. Advances in Neural Information Processing Systems, 30, 4765-4774.
